@@ -10,7 +10,7 @@
 
 **4. It will show like this**
 ![image](picture or gif url)
-ex:![movefile](https://github.com/HLLINN/pi3_move_file/movefile.gif)
+ex:![movefile](https://github.com/HLLINN/pi3_move_file/blob/master/movefile.gif)
 
 
 ### Reference:
